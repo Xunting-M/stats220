@@ -16,7 +16,7 @@ A little about me:
 2. Building programming skills in R
 3. Applying statistical concepts to real situations
 
-A character that captures how I currently feel about my university studies is
+A Gif that captures how I currently feel about my university studies is
 
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFkamhxdzQ4YWdqamxrd3h5dmtuNWJvZzRhNnE5anlyZjZ6eXV4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fdWVI1op6wi88/giphy.gif)
 
